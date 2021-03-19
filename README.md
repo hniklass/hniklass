@@ -5,7 +5,9 @@
 # 😃 Hello, I'm Nicolas!
 
 Welcome to my GitHub profile page.  
-**🌐 <a href="https://t.me/dhnik">Contact me on Telegram</a>**
+**🌐 <a href="https://t.me/dhnik">Contact me on Telegram</a>**   
+**🌐 <a href="https://wa.me/+584249071142">Contact me on Whatsapp</a>**   
+**🌐 <a href="http://twitter.com/hniklass">Follow me on Twitter</a> (I never publish anything)**
 
 📐 I am a graduated Systems Engineer currently working as a Full Stack Web Developer.   
 
