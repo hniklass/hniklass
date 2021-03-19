@@ -9,7 +9,7 @@ Welcome to my GitHub profile page.
 
 📐 I am a graduated Systems Engineer currently working as a Full Stack Web Developer.   
 
-🔠 󠁧󠁢󠁥󠁮󠁧󠁿I speak English and Spanish. I'm also learning German.
+🔠 󠁧󠁢󠁥󠁮󠁧󠁿I speak English and Spanish. I'm also learning German.   
 🈂️ Japanese and Korean are on my pending list.
 
 👾 Some of my hobbies include gaming (I love JRPGs), world-building and helping new programmers on Discord.
