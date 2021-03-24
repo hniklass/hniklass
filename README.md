@@ -42,7 +42,6 @@ Welcome to my GitHub profile page.
 ### Operations
 ![](https://img.shields.io/badge/-Nginx-103BBB?style=flat-square)
 ![](https://img.shields.io/badge/-Docker-430098?style=flat-square)
-![](https://img.shields.io/badge/-Kubernetes-0A5085?style=flat-square)
 ![](https://img.shields.io/badge/-AWS+Heroku+DO-0052A3?style=flat-square)
 
 ### Testing
@@ -65,6 +64,7 @@ Welcome to my GitHub profile page.
 ### Currently learning
 ![](https://img.shields.io/badge/-Go-214A69?style=flat-square)
 ![](https://img.shields.io/badge/-Apollo/GraphQL-103BBB?style=flat-square)
+![](https://img.shields.io/badge/-Kubernetes-0A5085?style=flat-square)
 
 <hr/>
 
