@@ -19,12 +19,8 @@ Welcome to my GitHub profile page.
 ## 🛠 Tech I use
 
 ### Engineering
-![](https://img.shields.io/badge/-JavaScript-544E21?style=flat-square)
-![](https://img.shields.io/badge/-TypeScript-563D7C?style=flat-square)
+![](https://img.shields.io/badge/-JavaScript+TypeScript-544E21?style=flat-square)
 ![](https://img.shields.io/badge/-React-245966?style=flat-square)
-![](https://img.shields.io/badge/-Redux+Saga-643DA4?style=flat-square)
-![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square)
-![](https://img.shields.io/badge/-Styled%20Components-8B2345?style=flat-square)
 ![](https://img.shields.io/badge/-Node-1F5D1F?style=flat-square)
 ![](https://img.shields.io/badge/-Next-333333?style=flat-square)
 ![](https://img.shields.io/badge/-Express-1B0308?style=flat-square)
@@ -33,9 +29,7 @@ Welcome to my GitHub profile page.
 ![](https://img.shields.io/badge/-Webpack-0000FF?style=flat-square)
 
 ### Databases
-![](https://img.shields.io/badge/-MySQL-00599C?style=flat-square)
-![](https://img.shields.io/badge/-SQLite-144D1B?style=flat-square)
-![](https://img.shields.io/badge/-PostgreSQL-004770?style=flat-square)
+![](https://img.shields.io/badge/-MySQL/Pg-00599C?style=flat-square)
 ![](https://img.shields.io/badge/-Firebase%20RDB-333333?style=flat-square)
 ![](https://img.shields.io/badge/-Redis-1B0308?style=flat-square)
 
