@@ -18,7 +18,6 @@ Welcome to my GitHub profile page.
 
 ## 🛠 Tech I use
 
-### Engineering
 ![](https://img.shields.io/badge/-JavaScript+TypeScript-544E21?style=flat-square)
 ![](https://img.shields.io/badge/-React-245966?style=flat-square)
 ![](https://img.shields.io/badge/-Node-1F5D1F?style=flat-square)
@@ -27,30 +26,20 @@ Welcome to my GitHub profile page.
 ![](https://img.shields.io/badge/-Adonis-430A16?style=flat-square)
 ![](https://img.shields.io/badge/-NestJS-1F5D1F?style=flat-square)
 ![](https://img.shields.io/badge/-Webpack-0000FF?style=flat-square)
-
-### Databases
 ![](https://img.shields.io/badge/-MySQL/Pg-00599C?style=flat-square)
 ![](https://img.shields.io/badge/-Firebase%20RDB-333333?style=flat-square)
 ![](https://img.shields.io/badge/-Redis-1B0308?style=flat-square)
-
-### Operations
 ![](https://img.shields.io/badge/-Nginx-103BBB?style=flat-square)
 ![](https://img.shields.io/badge/-Docker-430098?style=flat-square)
 ![](https://img.shields.io/badge/-AWS+Heroku+DO-0052A3?style=flat-square)
-
-### Testing
 ![](https://img.shields.io/badge/-Mocha-514A2A?style=flat-square)
 ![](https://img.shields.io/badge/-Chai-214A69?style=flat-square)
 ![](https://img.shields.io/badge/-Sinon-972907?style=flat-square)
 ![](https://img.shields.io/badge/-Jest-144D1B?style=flat-square)
 ![](https://img.shields.io/badge/-Enzyme-430098?style=flat-square)
 ![](https://img.shields.io/badge/-Istanbul.js-0000FF?style=flat-square)
-
-### Design
 ![](https://img.shields.io/badge/-Figma-972907?style=flat-square)
 ![](https://img.shields.io/badge/-Photoshop-010A90?style=flat-square)
-
-### Other
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square)
 ![](https://img.shields.io/badge/-Qt5-144D1B?style=flat-square)
 ![](https://img.shields.io/badge/-Basic%20R&S%20with%20Cisco%20devices-004770?style=flat-square)
