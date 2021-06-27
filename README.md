@@ -18,26 +18,26 @@ Welcome to my GitHub profile page.
 
 ## 🛠 Tech I use
 
-![](https://img.shields.io/badge/-JavaScript+TypeScript-544E21?style=flat-square)
-![](https://img.shields.io/badge/-React-245966?style=flat-square)
+### Development
+![](https://img.shields.io/badge/-JS+TS-544E21?style=flat-square)
+![](https://img.shields.io/badge/-React+Next-245966?style=flat-square)
 ![](https://img.shields.io/badge/-Node-1F5D1F?style=flat-square)
-![](https://img.shields.io/badge/-Next-333333?style=flat-square)
-![](https://img.shields.io/badge/-Express-1B0308?style=flat-square)
-![](https://img.shields.io/badge/-Adonis-430A16?style=flat-square)
-![](https://img.shields.io/badge/-NestJS-1F5D1F?style=flat-square)
-![](https://img.shields.io/badge/-Webpack-0000FF?style=flat-square)
-![](https://img.shields.io/badge/-MySQL/Pg-00599C?style=flat-square)
-![](https://img.shields.io/badge/-Firebase%20RDB-333333?style=flat-square)
-![](https://img.shields.io/badge/-Redis-1B0308?style=flat-square)
+![](https://img.shields.io/badge/-Nest+Express+Adonis-333333?style=flat-square)
+
+![](https://img.shields.io/badge/-PgSQL-00599C?style=flat-square)
+![](https://img.shields.io/badge/-Prisma-430098?style=flat-square)
+![](https://img.shields.io/badge/-Firebase-333333?style=flat-square)
+![](https://img.shields.io/badge/-Redis-144D1B?style=flat-square)
 ![](https://img.shields.io/badge/-Nginx-103BBB?style=flat-square)
 ![](https://img.shields.io/badge/-Docker-430098?style=flat-square)
-![](https://img.shields.io/badge/-AWS+Heroku+DO-0052A3?style=flat-square)
+![](https://img.shields.io/badge/-AWS+Heroku+DO+Vercel-0052A3?style=flat-square)
+
 ![](https://img.shields.io/badge/-Mocha-514A2A?style=flat-square)
 ![](https://img.shields.io/badge/-Chai-214A69?style=flat-square)
-![](https://img.shields.io/badge/-Sinon-972907?style=flat-square)
 ![](https://img.shields.io/badge/-Jest-144D1B?style=flat-square)
-![](https://img.shields.io/badge/-Enzyme-430098?style=flat-square)
-![](https://img.shields.io/badge/-Istanbul.js-0000FF?style=flat-square)
+![](https://img.shields.io/badge/-RTL-430098?style=flat-square)
+
+### Other
 ![](https://img.shields.io/badge/-Figma-972907?style=flat-square)
 ![](https://img.shields.io/badge/-Photoshop-010A90?style=flat-square)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square)
@@ -46,7 +46,7 @@ Welcome to my GitHub profile page.
 
 ### Currently learning
 ![](https://img.shields.io/badge/-Go-214A69?style=flat-square)
-![](https://img.shields.io/badge/-Apollo/GraphQL-103BBB?style=flat-square)
+![](https://img.shields.io/badge/-Chakra-103BBB?style=flat-square)
 ![](https://img.shields.io/badge/-Kubernetes-0A5085?style=flat-square)
 
 <hr/>
